@@ -81,3 +81,8 @@ CREATE TABLE `crawler`.`house_photo`  (
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COMMENT='房屋图片';
 ```
 
+`https://github.com/GFdexiaogenban/web-crawler.git`
+
+`git@github.com:GFdexiaogenban/web-crawler.git`
+
+在D盘下新建一个文件夹`pic`用于存放照片文件
