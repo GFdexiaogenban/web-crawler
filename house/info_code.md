@@ -85,4 +85,16 @@ CREATE TABLE `crawler`.`house_photo`  (
 
 `git@github.com:GFdexiaogenban/web-crawler.git`
 
+## 执行说明：
+
 在D盘下新建一个文件夹`pic`用于存放照片文件
+
+建立数据库`crawler`，在数据库中建立以上几个表，用于存放数据
+
+java version "1.8.0_281"
+Java(TM) SE Runtime Environment (build 1.8.0_281-b09)
+Java HotSpot(TM) 64-Bit Server VM (build 25.281-b09, mixed mode)
+
+javac 1.8.0_281
+
+采用maven项目
